@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [School Management System](https://github.com/calmHeaven/SpringBootProject)
 
-- 🌱 I’m currently learning **SpringBoot, Javascript**
+- 🌱 I’m currently learning **SpringBoot, Javascript, TypeScript**
 
 - 👨‍💻 All of my projects are available at [github.com/calmHeaven](https://github.com/calmHeaven)
 
