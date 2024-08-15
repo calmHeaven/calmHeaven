@@ -1,17 +1,17 @@
 <h3 align="center">Student @ UWinnipeg & Backend Developer</h3>
 
 
-- 🔭 I’m currently working on [School Management System](https://github.com/calmHeaven/SpringBootProject)
+- 🔭 I’m currently working on [School Management System](https://github.com/calmHeaven/SpringBootSchoolManagementSystem)
 
-- 🌱 I’m currently learning **ReactTS, NextTS, TypeScript**
+- 🌱 I’m currently learning **[React.JS](https://react.dev/), [Next.JS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)**
 
 - 👨‍💻 All of my projects are available at [github.com/calmHeaven](https://github.com/calmHeaven)
 
-- 💬 Ask me about **SpringBoot, Java**
+- 💬 Ask me about **[SpringBoot](https://spring.io/), [Java](https://www.java.com/en/)**
 
 - 📫 How to reach me **abenezer4989@gmail.com or via [Linkedin](www.linkedin.com/in/agt700)**
 
-- ⚡ Fun fact **You have within you great power!**
+- ⚡ Fun fact **You lose only when you give up. If you do not give up, you cannot lose.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
