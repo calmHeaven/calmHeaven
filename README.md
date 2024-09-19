@@ -28,7 +28,7 @@
           <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
               <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> </p><img src="https://www.svgrepo.com/download/306375/markdown.svg" alt="MD" width="40" height="40"/> </a> </p>
-              <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-ar21.svg" alt="react" width="40" height = "40"/> </a>
+              <img src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg" alt="react" width="40" height = "40"/> </a>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=calmheaven&show_icons=true&theme=dracula&locale=en&layout=compact" alt="calmheaven" /></p>
 
