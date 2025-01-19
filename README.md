@@ -1,7 +1,7 @@
-<h3 align="center">Student @ UWinnipeg & Backend Developer</h3>
+<h3 align="center">Student @ UWinnipeg & Software Engineer</h3>
 
 
-- 🔭 I’m currently working on [School Management System](https://github.com/calmHeaven/SpringBootSchoolManagementSystem)
+- 🔭 I’m currently working on [Habit Tracking App](https://stay-on-track.vercel.app)
 
 - 🌱 I’m currently learning **[React.JS](https://react.dev/), [Next.JS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)**
 
@@ -10,6 +10,8 @@
 - 💬 Ask me about **[SpringBoot](https://spring.io/), [Java](https://www.java.com/en/)**
 
 - 📫 How to reach me **abenezer4989@gmail.com or via [Linkedin](www.linkedin.com/in/agt700)**
+
+- Check out my [coding portfolio](https://abenezer-t-portfolio.vercel.app)
 
 - ⚡ Fun fact **You lose only when you give up. If you do not give up, you cannot lose.**
 
