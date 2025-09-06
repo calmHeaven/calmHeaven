@@ -1,7 +1,7 @@
 <h3 align="center">Student @ UWinnipeg & Software Engineer</h3>
 
 
-- 🔭 I’m currently working on [Habit Tracking App](https://stay-on-track.vercel.app)
+- 🔭 I’m currently working on [StayOnTrack](https://stay-on-track.vercel.app)
 
 - 🌱 I’m currently learning **[React.JS](https://react.dev/), [Next.JS](https://nextjs.org/), [TypeScript](https://www.typescriptlang.org/)**
 
